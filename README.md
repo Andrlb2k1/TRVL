@@ -1,2 +1,16 @@
 # TRVL
-Site de viagens, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
+Site de viagens responsivo, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
+
+Comandos:
+
+npx create-react-app travel-website
+
+cd travel-website
+
+npm start
+
+npm install react-router-dom
+
+Links:
+
+https://fontawesome.com/
