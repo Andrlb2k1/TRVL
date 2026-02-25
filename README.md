@@ -1,5 +1,5 @@
 # TRVL
-Site de viagens responsivo, feito com HTML, CSS, JavaScript, React, JSON, Node.js e Vite.
+Site de viagens responsivo, feito com HTML, CSS, JavaScript, React, JSON e Node.js.
 
 Comandos:
 
